@@ -1,0 +1,14 @@
+[
+  {"channel":"MRTV4",
+  "img":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg",
+  "link":"https://pp-live.b-cdn.net/bcdn_token=tQ2SE8SYLGdIXWbFt0OPhV8JQfsf7iJCbvzT85oUVHA&expires=1702049106&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8"},
+    {"channel":"Channel 7",
+  "img":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg",
+  "link":"https://pp-live.b-cdn.net/bcdn_token=y7tfxnSyZM6bh5tVc9omDUMMsyq4nned-myJeUJLiNs&expires=1702049319&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8"},
+    {"channel":"Channel K",
+  "img":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-120x120-a4d.jpg",
+  "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIzIDI6MzI6NTkgUE0maGFzaF92YWx1ZT1BMk5KTzZRVmtzOVMvSkRYSGZ4dHNBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE4"},
+    {"channel":"Mahar",
+  "img":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-120x120-2c2.jpg",
+  "link":"https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIzIDI6MzU6MDAgUE0maGFzaF92YWx1ZT1sNUJCa3ZYSGtWV3lScnRvRWgxNWZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTIw"}
+]
